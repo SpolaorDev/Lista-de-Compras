@@ -1,0 +1,1 @@
+esse é um aplicativo de lista de compras, desenvolido por um intregrante do macedo lovers.
